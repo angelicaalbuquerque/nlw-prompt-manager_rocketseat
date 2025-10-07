@@ -1,5 +1,5 @@
 ﻿<h1 align="center">
-  Frontangie Links | <img alt="badge rocketseat" align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/91bc6714054bfacd57ea0ef9f7bd98f9f0e749ae/badges/rocketseat.svg" width="150px;">
+  Prompt Manager | <img alt="badge rocketseat" align="center" src="https://raw.githubusercontent.com/angelicaalbuquerque/badges-and-icons/91bc6714054bfacd57ea0ef9f7bd98f9f0e749ae/badges/rocketseat.svg" width="150px;">
 </h1>
 
 <p align="center">
