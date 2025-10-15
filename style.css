@@ -12,3 +12,28 @@
   --gray-200: #424242;
   --gray-100: #737373;
 }
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  background-color: var(--gray-900);
+  color: var(--white);
+}
+
+.app {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+}
+
+.main {
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  padding: 62px 124px;
+  gap: 32px;
+}
