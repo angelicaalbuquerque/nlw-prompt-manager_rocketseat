@@ -7,7 +7,7 @@
         "npx",
         "-y",
         "figma-developer-mcp",
-        "--figma-api-key=figd_V_sv_UHQxXS3XCzqmbhNH0PDvd3VlINkSrtGCBcR",
+        "--figma-api-key=",
         "--stdio"
       ]
     }
