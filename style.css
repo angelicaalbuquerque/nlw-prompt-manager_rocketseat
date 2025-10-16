@@ -121,3 +121,30 @@ body {
   font-weight: 400;
   line-height: 32px;
 }
+
+.editable-wrapper {
+  position: relative;
+}
+
+.editable-wrapper::before {
+  content: attr(data-placeholder);
+  position: absolute;
+  color: var(--gray-200);
+  pointer-events: none;
+  opacity: 0;
+}
+
+.editable-wrapper.is-empty::before {
+  opacity: 1;
+}
+
+#title-wrapper.is-empty {
+  font-size: 32px;
+  font-weight: 600;
+  color: var(--gray-200);
+}
+
+#content-wrapper.is-empty {
+  font-size: 16px;
+  color: var(--gray-200);
+}
