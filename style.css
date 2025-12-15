@@ -167,10 +167,20 @@ body {
 .sidebar {
   width: 400px;
   height: 100vh;
-  padding: 32px;
   display: flex;
   flex-direction: column;
   gap: 50px;
+  padding: 32px;
   background-color: var(--gray-800);
   border-right: 0.5px solid var(--gray-700);
+}
+
+.sidebar-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo {
+  height: 24px;
 }
