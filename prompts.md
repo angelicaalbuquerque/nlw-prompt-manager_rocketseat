@@ -82,11 +82,11 @@ Reecrie o HTML e CSS do sidebar_content com o input de search com o icone svg de
 **Criar o componente de prompt da lista**
 
 ```
-Utilize o MCP do Figma para criar dentro da ul.prompt-list o HTML e CSS de apenas um elemento li para o prompt-item exatamente como está no Figma com title e description de um lado e o ícone de remove do outro:
+Utilize o MCP do Figma para criar dentro da ul.prompt-list o HTML e CSS de apenas um elemento li para o prompt-item exatamente como está no Figma com title e description de um lado e img de #file:remove.svg do outro:
 
 [LINK DA SELEÇÃO DE UM PROMPT-ITEM DO FIGMA]
 
-Para a div do componente utilize a classe prompt-item, para o título prompt-item-title e para a descrição prompt-item-description.
+Para a li do componente utilize a classe prompt-item, para o título prompt-item-title e para a descrição prompt-item-description.
 
 Para o botão utilize a classe CSS existente btn-icon. E para a imagem de remover dentro do botão utilize a classe icon e icon-trash.
 ```
