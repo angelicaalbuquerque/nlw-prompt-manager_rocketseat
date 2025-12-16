@@ -52,7 +52,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Git
 - Github
 - Figma
-- IA
+- IA (Veja [aqui](https://github.com/angelicaalbuquerque/nlw-prompt-manager_rocketseat/blob/main/prompts.md) os prompts que utilizei)
 
 ## 🎨 Layout
 
