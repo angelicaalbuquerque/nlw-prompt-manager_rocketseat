@@ -1,4 +1,13 @@
-// Seleciona os elementos por id
+// Chave para identificar os dados salvos pela aplicação no navegador
+const STORAGE_KEY = "prompts_storage"
+
+// Estado para carregar os prompts salvos e exibir
+const state = {
+  prompts: [],
+  selectedId: null,
+}
+
+// Seletores dos elementos HTML por ID
 const elements = {
   promptTitle: document.getElementById("prompt-title"),
   promptContent: document.getElementById("prompt-content"),
